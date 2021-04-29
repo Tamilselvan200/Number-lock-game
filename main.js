@@ -85,7 +85,3 @@ new PinLogin({
     loginEndpoint: "login.php",
     redirectTo: "dashboard.html"
 });
-
-
-
-            
